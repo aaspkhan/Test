@@ -1,0 +1,6 @@
+{
+  "name": "Sakila Boutique",
+  "description": "A premium boutique storefront with integrated cashless payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
